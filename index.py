@@ -429,3 +429,5 @@ while tries_flag != "Close the program" :
 					
 		else :
 			print("Please choice just 1 or 2")
+			
+			
